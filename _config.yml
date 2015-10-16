@@ -1,6 +1,6 @@
 name: weddings
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.9252615263685584
 title: 'rojo foto//design :: Wedding Photography Serving the Chicagoland Area'
 cta:
   domain: null
@@ -24,3 +24,4 @@ purpose:
   - name: engagement
     item: null
     url: null
+typography_spectrum: 0.02095640473999083
